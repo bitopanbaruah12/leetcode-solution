@@ -18,4 +18,8 @@
 |  |
 | ------- |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1704-special-positions-in-a-binary-matrix) |
+## String
+|  |
+| ------- |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 <!---LeetCode Topics End-->
