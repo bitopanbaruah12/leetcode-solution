@@ -5,8 +5,7 @@ public:
         if(n==0){
             return 1;
         }
-        else{
-              while (n > 0) {
+        while (n > 0) {
             binary.push_back(n % 2);
             n = n / 2;
         }
@@ -25,7 +24,5 @@ public:
             multi = multi * 2;
         }
         return total;
-        }
-      
     }
 };
