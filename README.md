@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0899-binary-gap](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0899-binary-gap) |
+| [1054-complement-of-base-10-integer](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1054-complement-of-base-10-integer) |
 ## Matrix
 |  |
 | ------- |
