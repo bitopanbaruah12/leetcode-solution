@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0001-two-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1975-minimum-distance-to-the-target-element) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [4168-mirror-distance-of-an-integer](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/4168-mirror-distance-of-an-integer) |
+## Greedy
+|  |
+| ------- |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2199-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
