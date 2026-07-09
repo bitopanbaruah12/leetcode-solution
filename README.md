@@ -33,4 +33,8 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0657-robot-return-to-origin) |
+## Math
+|  |
+| ------- |
+| [4168-mirror-distance-of-an-integer](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/4168-mirror-distance-of-an-integer) |
 <!---LeetCode Topics End-->
