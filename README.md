@@ -30,6 +30,7 @@
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3019-furthest-point-from-origin](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3019-furthest-point-from-origin) |
 ## Simulation
 |  |
 | ------- |
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2199-two-furthest-houses-with-different-colors) |
+## Counting
+|  |
+| ------- |
+| [3019-furthest-point-from-origin](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3019-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
