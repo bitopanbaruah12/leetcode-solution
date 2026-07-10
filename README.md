@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0657-robot-return-to-origin) |
+| [0812-rotate-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0812-rotate-string) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [3019-furthest-point-from-origin](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3019-furthest-point-from-origin) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
