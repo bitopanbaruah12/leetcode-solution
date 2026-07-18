@@ -10,10 +10,12 @@
 | [2199-two-furthest-houses-with-different-colors](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2553-separate-the-digits-in-an-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [2784-check-if-array-is-good](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0001-two-sum) |
+| [2784-check-if-array-is-good](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2784-check-if-array-is-good) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0812-rotate-string) |
+## Sorting
+|  |
+| ------- |
+| [2784-check-if-array-is-good](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2784-check-if-array-is-good) |
 <!---LeetCode Topics End-->
