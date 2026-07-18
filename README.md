@@ -8,6 +8,7 @@
 | [1704-special-positions-in-a-binary-matrix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2553-separate-the-digits-in-an-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0657-robot-return-to-origin) |
+| [2553-separate-the-digits-in-an-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
 ## Math
 |  |
 | ------- |
