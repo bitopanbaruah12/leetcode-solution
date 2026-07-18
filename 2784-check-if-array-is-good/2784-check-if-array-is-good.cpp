@@ -1,20 +1,25 @@
 class Solution {
 public:
     bool isGood(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        int n=nums[nums.size()-1];
-        int i=1;
-        vector<int> base;
-        while(i<=n){
-            base.push_back(i);
-            i++;
-
+        sort(nums.begin(), nums.end());
+        int n = nums[nums.size() - 1];
+        int i = 1;
+        if (nums.size() != n + 1) {
+            return false;
+        } else {
+            for (int j = 0; j < nums.size(); j++) {
+                if (i != nums[j]) {
+                    return false;
+                };
+               if(i==n){
+                i=n;
+               }
+               else{
+                i++;
+               }
+            }
         }
-        base.push_back(n);
-        if(base==nums){
-            return true;
-        }
-        return false;
 
+        return true;
     }
 };
