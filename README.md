@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0001-two-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2540-minimum-common-value](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2540-minimum-common-value) |
