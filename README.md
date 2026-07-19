@@ -8,6 +8,7 @@
 | [1704-special-positions-in-a-binary-matrix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2540-minimum-common-value](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2784-check-if-array-is-good](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2784-check-if-array-is-good) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0001-two-sum) |
+| [2540-minimum-common-value](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2784-check-if-array-is-good) |
 ## Bit Manipulation
 |  |
@@ -60,4 +62,12 @@
 |  |
 | ------- |
 | [2784-check-if-array-is-good](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2784-check-if-array-is-good) |
+## Two Pointers
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2540-minimum-common-value) |
+## Binary Search
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
