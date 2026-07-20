@@ -13,6 +13,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2784-check-if-array-is-good](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2784-check-if-array-is-good) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 ## Math
 |  |
 | ------- |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [4168-mirror-distance-of-an-integer](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/4168-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
