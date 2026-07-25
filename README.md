@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4168-mirror-distance-of-an-integer](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/4168-mirror-distance-of-an-integer) |
 ## Greedy
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2540-minimum-common-value) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
