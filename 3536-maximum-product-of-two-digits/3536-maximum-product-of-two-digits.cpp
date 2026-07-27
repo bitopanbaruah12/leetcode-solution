@@ -6,15 +6,10 @@ public:
             digits.push_back(n % 10);
             n /= 10;
         }
-        int maximum=INT_MIN;
-        for(int i=0;i<digits.size();i++){
-            for(int j=0;j<digits.size();j++){
-                if(i==j){
-                    continue;
-                }
-                maximum=max(maximum,digits[i]*digits[j]);
-            }
-        }
+        sort(digits.begin(),digits.end());
+        int x=digits.size();
+        int maximum=digits[x-1]*digits[x-2];
+       
         return maximum;
     }
 };
