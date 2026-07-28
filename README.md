@@ -30,6 +30,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0899-binary-gap](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0899-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1054-complement-of-base-10-integer) |
 ## Matrix
@@ -102,4 +103,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
