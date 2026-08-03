@@ -60,6 +60,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -120,6 +121,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
@@ -133,6 +135,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 ## Stack
