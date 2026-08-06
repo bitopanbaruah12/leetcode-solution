@@ -49,6 +49,7 @@
 | [0812-rotate-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0812-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
+| [1903-largest-odd-number-in-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -65,6 +66,7 @@
 | [0002-add-two-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
@@ -74,6 +76,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Counting
