@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
@@ -44,6 +45,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0812-rotate-string) |
@@ -157,4 +159,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
