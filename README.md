@@ -50,6 +50,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0657-robot-return-to-origin](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0812-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
@@ -90,6 +91,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0812-rotate-string) |
 ## Sorting
 |  |
