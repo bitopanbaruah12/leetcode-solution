@@ -33,6 +33,7 @@
 | [0242-valid-anagram](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2540-minimum-common-value](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2784-check-if-array-is-good) |
 ## Bit Manipulation
@@ -60,6 +61,7 @@
 | [0812-rotate-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0812-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1903-largest-odd-number-in-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3019-furthest-point-from-origin](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3019-furthest-point-from-origin) |
 ## String Matching
 |  |
