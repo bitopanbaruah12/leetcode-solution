@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
@@ -146,6 +147,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0191-number-of-1-bits) |
 ## Linked List
 |  |
@@ -188,4 +190,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
