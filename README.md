@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
@@ -194,4 +195,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
