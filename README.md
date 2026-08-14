@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -48,6 +49,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1704-special-positions-in-a-binary-matrix) |
 ## String
@@ -83,6 +85,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
