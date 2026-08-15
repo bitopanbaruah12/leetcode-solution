@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1260-shift-2d-grid) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1704-special-positions-in-a-binary-matrix) |
 ## String
@@ -76,6 +78,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0657-robot-return-to-origin) |
 | [1260-shift-2d-grid](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
