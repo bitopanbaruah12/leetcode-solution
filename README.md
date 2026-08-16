@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1260-shift-2d-grid) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -52,6 +54,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1704-special-positions-in-a-binary-matrix) |
 ## String
