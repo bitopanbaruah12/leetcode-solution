@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
@@ -44,6 +45,7 @@
 | [0229-majority-element-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2540-minimum-common-value](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2540-minimum-common-value) |
@@ -224,4 +226,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0229-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
