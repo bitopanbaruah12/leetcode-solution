@@ -12,6 +12,7 @@
 | [0073-set-matrix-zeroes](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1260-shift-2d-grid) |
@@ -38,6 +39,7 @@
 | [0141-linked-list-cycle](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0242-valid-anagram) |
@@ -113,6 +115,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -125,6 +128,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
@@ -166,6 +170,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0191-number-of-1-bits) |
 ## Linked List
 |  |
@@ -217,5 +222,6 @@
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
