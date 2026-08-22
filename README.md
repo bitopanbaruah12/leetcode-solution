@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0054-spiral-matrix) |
@@ -169,6 +170,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2540-minimum-common-value) |
 ## Number Theory
