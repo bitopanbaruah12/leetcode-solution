@@ -20,6 +20,7 @@
 | [0088-merge-sorted-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
@@ -177,6 +178,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2540-minimum-common-value) |
 ## Number Theory
