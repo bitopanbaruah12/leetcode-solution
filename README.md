@@ -112,6 +112,7 @@
 | [0013-roman-to-integer](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -179,6 +180,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0162-find-peak-element) |
@@ -261,4 +263,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0056-merge-intervals) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
