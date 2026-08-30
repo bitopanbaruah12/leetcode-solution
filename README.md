@@ -192,6 +192,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0704-binary-search) |
 | [1901-find-a-peak-element-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1901-find-a-peak-element-ii) |
@@ -277,4 +278,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
