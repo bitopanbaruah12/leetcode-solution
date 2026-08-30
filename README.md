@@ -26,6 +26,7 @@
 | [0169-majority-element](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0275-h-index-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -192,6 +193,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0704-binary-search) |
