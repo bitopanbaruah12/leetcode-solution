@@ -47,6 +47,7 @@
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2784-check-if-array-is-good](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2540-minimum-common-value](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2784-check-if-array-is-good) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
 |  |
 | ------- |
