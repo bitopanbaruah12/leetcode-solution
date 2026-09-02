@@ -36,6 +36,7 @@
 | [1260-shift-2d-grid](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1901-find-a-peak-element-ii) |
@@ -207,6 +208,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1901-find-a-peak-element-ii) |
 | [2540-minimum-common-value](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2540-minimum-common-value) |
 ## Number Theory
