@@ -27,6 +27,7 @@
 | [0229-majority-element-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0275-h-index-ii) |
+| [0436-find-right-interval](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -162,6 +163,7 @@
 | [0169-majority-element](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0436-find-right-interval](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
@@ -200,6 +202,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0278-first-bad-version) |
+| [0436-find-right-interval](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0704-binary-search) |
 | [1901-find-a-peak-element-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1901-find-a-peak-element-ii) |
