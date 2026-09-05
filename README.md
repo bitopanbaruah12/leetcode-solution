@@ -133,6 +133,7 @@
 | [0069-sqrtx](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
@@ -257,6 +258,7 @@
 | [0050-powx-n](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1922-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
