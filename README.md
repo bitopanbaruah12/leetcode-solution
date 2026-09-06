@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0231-power-of-two) |
 | [0899-binary-gap](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0899-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1054-complement-of-base-10-integer) |
 ## Matrix
@@ -132,6 +133,7 @@
 | [0048-rotate-image](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1922-count-good-numbers) |
@@ -258,6 +260,7 @@
 | [0002-add-two-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1922-count-good-numbers) |
 ## Stack
