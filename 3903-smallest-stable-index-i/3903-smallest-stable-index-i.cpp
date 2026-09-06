@@ -1,24 +1,26 @@
 class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
-        int n=nums.size();
+        int n = nums.size();
+        vector<int> prefixmax(n);
+        vector<int> suffixmin(n);
 
-        for(int i=0;i<n;i++){
-            int max_1=INT_MIN;
-            int min_1=INT_MAX;
-            for(int j=0;j<=i;j++){
-                max_1=max(max_1,nums[j]);
-            }
-            for(int p=i;p<=n-1;p++){
-                min_1=min(min_1,nums[p]);
-            }
-            int score=max_1-min_1;
-            if(score<=k){
+        prefixmax[0] = nums[0];
+
+        for (int i = 1; i < n; i++) {
+            prefixmax[i] = max(prefixmax[i - 1], nums[i]);
+        }
+        suffixmin[n - 1] = nums[n - 1];
+
+        for (int i = n - 2; i >= 0; i--) {
+            suffixmin[i] = min(suffixmin[i + 1], nums[i]);
+        }
+        for (int i = 0; i < n; i++) {
+            int score = prefixmax[i] - suffixmin[i];
+            if (score <= k) {
                 return i;
-
             }
         }
         return -1;
-        
     }
 };
