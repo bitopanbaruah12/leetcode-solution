@@ -55,6 +55,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3903-smallest-stable-index-i](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -293,6 +294,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
+| [3903-smallest-stable-index-i](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3903-smallest-stable-index-i) |
 ## Quicksort
 |  |
 | ------- |
