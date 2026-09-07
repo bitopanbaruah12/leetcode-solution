@@ -79,6 +79,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0231-power-of-two) |
 | [0899-binary-gap](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0899-binary-gap) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0069-sqrtx) |
