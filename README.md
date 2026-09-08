@@ -84,6 +84,7 @@
 | [0231-power-of-two](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0231-power-of-two) |
 | [0899-binary-gap](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0899-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1054-complement-of-base-10-integer) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Matrix
 |  |
 | ------- |
