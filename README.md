@@ -17,6 +17,7 @@
 | [0056-merge-intervals](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0118-pascals-triangle) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0231-power-of-two) |
@@ -316,4 +318,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0278-first-bad-version) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
