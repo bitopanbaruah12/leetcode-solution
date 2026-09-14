@@ -26,6 +26,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0275-h-index-ii) |
@@ -140,6 +141,7 @@
 | [0048-rotate-image](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
@@ -233,6 +235,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
@@ -322,4 +325,20 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
