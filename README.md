@@ -277,6 +277,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -341,4 +342,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
