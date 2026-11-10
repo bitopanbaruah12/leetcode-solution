@@ -52,6 +52,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1901-find-a-peak-element-ii) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2104-sum-of-subarray-ranges) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -295,6 +296,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -375,4 +377,5 @@
 | [0496-next-greater-element-i](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
