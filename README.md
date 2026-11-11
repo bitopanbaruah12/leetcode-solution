@@ -44,6 +44,7 @@
 | [1260-shift-2d-grid](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1539-kth-missing-positive-number) |
@@ -330,6 +331,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3903-smallest-stable-index-i](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/3903-smallest-stable-index-i) |
 ## Quicksort
 |  |
@@ -382,4 +384,8 @@
 | [0503-next-greater-element-ii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2104-sum-of-subarray-ranges) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
