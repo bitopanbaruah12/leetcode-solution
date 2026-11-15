@@ -87,6 +87,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2540-minimum-common-value](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/2784-check-if-array-is-good) |
@@ -131,6 +132,7 @@
 | [0796-rotate-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0812-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
@@ -400,5 +402,6 @@
 | [0424-longest-repeating-character-replacement](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bitopanbaruah12/leetcode-solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
